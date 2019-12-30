@@ -1,0 +1,14 @@
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.csprojAssemblyReference.cache
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.csproj.CoreCompileInputs.cache
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.RazorAssemblyInfo.cache
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.RazorAssemblyInfo.cs
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.AssemblyInfoInputs.cache
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.AssemblyInfo.cs
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\bin\Debug\netcoreapp2.2\ASPNetCoreWebAPI.deps.json
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\bin\Debug\netcoreapp2.2\ASPNetCoreWebAPI.runtimeconfig.json
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\bin\Debug\netcoreapp2.2\ASPNetCoreWebAPI.runtimeconfig.dev.json
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\bin\Debug\netcoreapp2.2\ASPNetCoreWebAPI.dll
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\bin\Debug\netcoreapp2.2\ASPNetCoreWebAPI.pdb
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.RazorTargetAssemblyInfo.cache
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.dll
+D:\Shyam WorkSpace\Projects\ASPNetCoreWebAPI\ASPNetCoreWebAPI\obj\Debug\netcoreapp2.2\ASPNetCoreWebAPI.pdb
