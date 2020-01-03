@@ -80,6 +80,9 @@ namespace ASPNetCoreWebAPI.DataServices {
             if (!string.IsNullOrWhiteSpace (userParam.LastName))
                 user.LastName = userParam.LastName;
 
+            if (!string.IsNullOrWhiteSpace (userParam.Email))
+                user.Email = userParam.Email;
+
             // update password if provided
             if (!string.IsNullOrWhiteSpace (password)) {
                 byte[] passwordHash, passwordSalt;
